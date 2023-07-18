@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@dapp-sdk/analytics": "1.0.3",
-    "@dapp-sdk/analytics-ui": "file:/Users/choubey/Documents/CodeBase/dApp-sdk/packages/analytics-ui",
+    "@dapp-sdk/analytics-ui": "1.0.1",
     "@lit-labs/react": "^1.2.1",
     "dotenv": "^16.3.1",
     "lit": "^2.7.6",
